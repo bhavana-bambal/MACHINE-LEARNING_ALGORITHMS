@@ -14,7 +14,8 @@ It includes different ML algorithms and the datasets used in them.
 - KNN  
 - SVM  
 - Naive Bayes  
-- K-Means  
+- K-Means
+- ML Model Deploy  
 ## 📂 Dataset
 - Datasets are included in this repository  
 - Used for training and testing  
