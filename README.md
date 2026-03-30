@@ -1,12 +1,12 @@
 # 🤖 Machine Learning Algorithms
 This repository contains my **Machine Learning practicals**.
 It includes different ML algorithms and the datasets used in them.
-## 📌 Objectives
+##  Objectives
 - Learn basic Machine Learning concepts  
 - Implement different algorithms  
 - Work with datasets  
 - Understand results  
-## 🧠 Algorithms
+##  Algorithms
 - Linear Regression  
 - Logistic Regression  
 - Decision Tree  
@@ -16,11 +16,11 @@ It includes different ML algorithms and the datasets used in them.
 - Naive Bayes  
 - K-Means
 - ML Model Deploy  
-## 📂 Dataset
+##  Dataset
 - Datasets are included in this repository  
 - Used for training and testing  
-- Taken from sources like Kaggle / UCI  
-## ⚙️ Technologies
+- Taken from sources like Kaggle   
+##  Technologies
 - Python  
 - NumPy  
 - Pandas  
